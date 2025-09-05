@@ -56,5 +56,14 @@ The Swin-base transformer achieved the highest accuracy of more than 80%.
 
 ![App Screenshot](https://github.com/newaz-aa/skin_lesion_classification_DL/blob/main/Prediction_analysis/GridImage.png)
 
-# Citation
+## Citation
 pending - waiting for arxiv submission completion
+
+## Acknowledgement
+We sincerely thank the creators and maintainers of the publicly available datasets used in this study:  
+
+- **PAD-UFES-20**: [Mendeley Dataset](https://data.mendeley.com/datasets/zr7vgbcyr2/1)  
+- **Monkeypox Skin Images Dataset (MSID)**: [Mendeley Dataset](https://data.mendeley.com/datasets/r9bfpnvyxr/6)  
+- **Mpox Skin Lesion Dataset v2.0 (MSLD v2.0)**: [Kaggle Dataset](https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20)  
+- **Dermatology Atlas**: [Atlas Dermatológico](https://www.atlasdermatologico.com.br/)  
+ 
