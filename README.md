@@ -54,8 +54,7 @@ The Swin-base transformer achieved the highest accuracy of more than 80%.
 
 ## Prediction Analysis
 
-![App Screenshot](https://github.com/newaz-aa/skin_lesion_classification_DL/blob/main/Prediction_analysis/swin_correctPredictions.pdf)
-![App Screenshot](https://github.com/newaz-aa/skin_lesion_classification_DL/blob/main/Prediction_analysis/swin_wrongPredictions.pdf)
+![App Screenshot](https://github.com/newaz-aa/skin_lesion_classification_DL/blob/main/Prediction_analysis/GridImage.png)
 
 # Citation
-pending - waiting for arxiv 
+pending - waiting for arxiv submission completion
